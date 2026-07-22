@@ -1,0 +1,29 @@
+# Dart / Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+.packages
+pubspec.lock
+
+# Generated
+*.g.dart
+*.freezed.dart
+
+# Native
+ios/Pods/
+android/.gradle/
+android/local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/settings.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+.DS_Store
+Thumbs.db
+*.log
